@@ -1,0 +1,4 @@
+Suspect = Bugs Bunny       Score = 0.000706726
+Suspect = Dudley Dooright       Score = 0.020211
+Suspect = Donald Duck       Score = 0.0320545
+Suspect = Snidley Whiplash       Score = 0.0902152

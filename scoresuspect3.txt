@@ -1,0 +1,4 @@
+Suspect = Tennessee Tuxedo       Score = 0.00484886
+Suspect = Elton John       Score = 0.0288796
+Suspect = Frank Zappa       Score = 0.0328631
+Suspect = Shirley Temple       Score = 0.105137
